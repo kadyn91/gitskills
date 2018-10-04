@@ -1,2 +1,3 @@
-# gitskills
-# git is free software
+# gitskills.
+# git is free software.
+# git is a distributed version control system.
